@@ -1,14 +1,14 @@
-# Cloud Foundry Ruby Buildpack
+# Cloud Foundry Ruby + FreeTDS Buildpack
 
 An attempt to implement a ruby buildpack with freetds provided, to allow sql server access.
 Forked from https://github.com/cloudfoundry/ruby-buildpack/releases/tag/v1.7.34
-and freetds buildpack info taken from Stark and Wayne by drnic: 
+and the FreeTDS buildpack source files were taken from Stark and Wayne (originally created by drnic https://github.com/drnic): 
 https://github.com/starkandwayne/freetds-buildpack
 
 
 ------------------------------------------------------
 
-Original README follows below:
+Original Ruby Buildpack README follows below:
 
 
 A Cloud Foundry [buildpack](http://docs.cloudfoundry.org/buildpacks/) for Ruby based apps.
